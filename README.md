@@ -19,4 +19,4 @@ This is an **end-to-end project** covering:
 
 ## Live Dashboard  
 You can explore the interactive Power BI dashboard here:  
-https://app.powerbi.com/view?r=eyJrIjoiMGYzOWQyNTUtNzBlZi00NmJhLTliOTQtNjBlOWY5ZGFiNDMyIiwidCI6IjI3MTZjMjdmLTFlODAtNDU2OC1hOWM5LTY2MTYwYzVjNmNmZiJ9
+https://app.powerbi.com/view?r=eyJrIjoiNzRiZmZhN2MtNDdjNy00OGU2LWE4OTEtMWJmNmY5MGE0ZTU3IiwidCI6IjhkMzFkMTQ0LWI3ZjMtNDY2OC1iOGEwLTZhNzRmNWU0Y2Q4MSJ9
